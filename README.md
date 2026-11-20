@@ -1,16 +1,13 @@
-## Hi there 👋
+## yo, i'm smoothtribekz 👋
 
-<!--
-**smoothtribekz/smoothtribekz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer interested in simple tools and pragmatic development. Based in Malaysia.
 
-Here are some ideas to get you started:
+- probably overthinking a database schema right now
+- happy to pair on open-source stuff
+- shipping small and often
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=smoothtribekz&hide_border=true&theme=minimal" alt="Contribution graph" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=smoothtribekz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=synthwave" alt="smoothtribekz GitHub stats" />
+
+<img src="https://img.shields.io/badge/Node.js-39d353?style=for-the-badge&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/React-39d353?style=for-the-badge&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-39d353?style=for-the-badge&logoColor=white" alt="TypeScript" />
